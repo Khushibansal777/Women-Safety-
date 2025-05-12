@@ -92,5 +92,12 @@ View/manage user alerts and incident reports
 Monitor real-time reports and stored media
 
 
+### Screenshot
+
+![Home Page Screenshot](screenshots/home.png)
+
+
+
+
 
 
